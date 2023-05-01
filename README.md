@@ -2,7 +2,7 @@ hi
 
 Deploy hiij amjaagui bolohoor ymarhu yvtstai baigaagaa screenshot hiisen baigaa.
 
-https://github.com/otgonbileg11/task-manager/blob/main/screenrecord-2023-04-28_17.43.00.gif
+![](https://github.com/otgonbileg11/task-manager/blob/main/screenrecord-2023-04-28_17.43.00.gif)
 
 **Amjaagui ch gsn zasaj minii huvid boloh bsn ymnuud:**
 
